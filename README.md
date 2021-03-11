@@ -13,7 +13,7 @@ Um regressor baseado em redes neurais convolucionais que desenvolvi em keras par
 
 ## Resutados
 
-<img src="https://github.com/bruiglesias/rede-neural-bolsa-valores-petrobras/blob/main/previsoes.png" width="300"/>
+<img src="https://github.com/bruiglesias/rede-neural-bolsa-valores-petrobras/blob/main/previsoes.png" width="600"/>
 
 
 ## Contribuição
